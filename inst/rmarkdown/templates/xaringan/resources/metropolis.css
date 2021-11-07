@@ -252,3 +252,20 @@ hr, .mline h1::after {
 .font200 {
   font-size: 200%;
 }
+
+
+/*~~~~~>>~~~~~~~~~*/
+/* UFPR additions */
+/*~~~~~~~>>~~~~~~~*/
+
+/* Title slide */
+
+/* Add image and change bg color */
+.title-slide {
+  background-image: url(https://github.com/ramoswillian/xaringan/raw/img/ufpr.png);
+  background-position: 9% 15%;
+  background-size: 75px;
+  padding-left: 100px;  /* delete this for 4:3 aspect ratio */
+}
+
+
