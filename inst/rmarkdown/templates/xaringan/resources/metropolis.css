@@ -262,7 +262,7 @@ hr, .mline h1::after {
 
 /* Add image and change bg color */
 .title-slide {
-  background-image: url(http://grupomontevideo.org/escala/images/Logos/ufpr.png);
+  background-image: url(https://raw.githubusercontent.com/Andryas/FACULDADE/cbd28134500b917d26bb4c117270d480695628cb/CE095/ufpr.jpg);
   background-position: center; 
   background-size: cover;
 }
