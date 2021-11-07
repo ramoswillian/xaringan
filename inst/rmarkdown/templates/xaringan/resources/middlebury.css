@@ -124,7 +124,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 /* Add image and change bg color */
 .title-slide {
   background-image: url(http://grupomontevideo.org/escala/images/Logos/ufpr.png);
-  background-position: 10% 15%;
+  background-position: 2% 15%;
   background-size: 255px;
   background-color: #fff;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
