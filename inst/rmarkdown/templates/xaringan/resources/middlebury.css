@@ -122,13 +122,21 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 /* Title slide */
 
 /* Add image and change bg color */
-.title-slide {
+/*.title-slide {
   background-image: url(http://grupomontevideo.org/escala/images/Logos/ufpr.png);
   background-position: 2% 15%;
   background-size: 255px;
   background-color: #fff;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
+/*}*/
+
+/* Add image and change bg color */
+.title-slide {
+  background-image: url(https://raw.githubusercontent.com/ramoswillian/xaringan/master/tests/ufpr.png);
+  background-position: center; 
+  background-size: cover;
 }
+
 
 /* H1 fonts */
 .title-slide h1 {
