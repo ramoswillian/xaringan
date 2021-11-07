@@ -262,7 +262,7 @@ hr, .mline h1::after {
 
 /* Add image and change bg color */
 .title-slide {
-  background-image: url(https://github.com/ramoswillian/xaringan/tests/ufpr.jpg);
+  background-image: url(https://raw.githubusercontent.com/ramoswillian/xaringan/master/tests/ufpr.jpg);
   background-position: center; 
   background-size: cover;
 }
