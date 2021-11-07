@@ -147,8 +147,10 @@ thead, tfoot, tr:nth-child(even) { background: none; }
   text-shadow: none;
   padding-top: 250px;
   line-height: 0.05;
-  padding-bottom: 18px;
+  padding-top: 80px;
+  margin-bottom: 18px;
 }
+
 
 
 
