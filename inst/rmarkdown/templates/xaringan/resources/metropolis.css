@@ -265,6 +265,7 @@ hr, .mline h1::after {
   background-image: url(https://raw.githubusercontent.com/ramoswillian/xaringan/master/tests/ufpr.jpg);
   background-position: center; 
   background-size: cover;
+  opacity(25%);
 }
 
 
