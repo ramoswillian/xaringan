@@ -295,7 +295,7 @@ ru-blockquote {
   border-left: solid 10px #cc0033;
   background-color: #000000;
   padding: 1em;
-  color: #fff;
+  color: #000000;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
 }
