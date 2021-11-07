@@ -149,6 +149,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
   text-shadow: none;
   padding-bottom: 18px;
   margin-bottom: 18px;
+  word-break: normal;
 }
 
 /* H2 fonts */
