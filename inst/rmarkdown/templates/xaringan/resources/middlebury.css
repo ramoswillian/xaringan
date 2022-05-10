@@ -141,7 +141,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 /* H1 fonts */
 .title-slide h1 {
   color: #515151;
-  font-size: 45px;
+  font-size: 40px;
   font-weight: normal;
   text-align: left;
   text-shadow: none;
